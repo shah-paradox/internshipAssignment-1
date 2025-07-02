@@ -1,2 +1,2 @@
-# internshipAssignment-1
-Transformer finetuning
+# transformerAssignment
+Genesys Lab Internship project#1
