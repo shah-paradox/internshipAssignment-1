@@ -2,7 +2,7 @@ import streamlit as st
 import torch
 from transformers import pipeline
 
-st.title("🤖 RoBERTa Question Answering")
+st.title("RoBERTa Question Answering")
 st.markdown("Ask questions about any given context using RoBERTa")
 
 @st.cache_resource
